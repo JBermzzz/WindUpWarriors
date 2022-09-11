@@ -1,14 +1,40 @@
 fileFormatVersion: 2
-guid: f7c2706bb886f3541b87e42e60212809
+guid: dee7e370a1d09c3419aec30767e45a25
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 8419569566273070839
+    second: JesterRig_Walk
+  - first:
+      74: -7022783019434422983
+    second: JesterRig_run
+  - first:
+      74: 7792379182757554953
+    second: Jester_WindUp
+  - first:
+      74: -3197289408314388108
+    second: Jester_WakeUp
+  - first:
+      74: -5923192437981516768
+    second: Jester_Sleep
+  - first:
+      74: 9139740441896653310
+    second: Jester_Idle
+  - first:
+      74: -3386019434421099540
+    second: Jester_Attack
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Misc_M
+      name: bomb_material
     second: {fileID: 2100000, guid: 2b1cf0c69a7c345459d5ee52b20ae5fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jester_material
+    second: {fileID: 2100000, guid: 583ac3d4a33cab740881403a7e7c1962, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

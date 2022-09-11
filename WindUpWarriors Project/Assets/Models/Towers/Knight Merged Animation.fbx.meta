@@ -1,14 +1,23 @@
 fileFormatVersion: 2
-guid: f7c2706bb886f3541b87e42e60212809
+guid: 805f3650fdd5bb44d965dda2980e723b
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -6601093399316381666
+    second: Moving
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 842011099488704110
+    second: Charge
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Misc_M
-    second: {fileID: 2100000, guid: 2b1cf0c69a7c345459d5ee52b20ae5fe, type: 2}
+      name: Knight_Mat
+    second: {fileID: 2100000, guid: a8895ee2cc809354e86a6bb4a32751da, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

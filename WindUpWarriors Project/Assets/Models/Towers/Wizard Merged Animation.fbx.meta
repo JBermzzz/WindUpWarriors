@@ -1,14 +1,35 @@
 fileFormatVersion: 2
-guid: f7c2706bb886f3541b87e42e60212809
+guid: 6fb840cac94b760409946f76248bff75
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 5522812681064789136
+    second: Run
+  - first:
+      74: 2667949614841947897
+    second: Walk
+  - first:
+      74: -3100369314251171874
+    second: Idle
+  - first:
+      74: 1354083256325142241
+    second: Sleep
+  - first:
+      74: -2041171903189940578
+    second: Cast
+  - first:
+      74: 6720303635017113406
+    second: Attack
+  - first:
+      74: -3558663468620270118
+    second: Recharge
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Misc_M
-    second: {fileID: 2100000, guid: 2b1cf0c69a7c345459d5ee52b20ae5fe, type: 2}
+      name: lambert3
+    second: {fileID: 2100000, guid: a3c776e7d37d8d04ab07a9fb7af84480, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -1,9 +1,32 @@
 fileFormatVersion: 2
-guid: f7c2706bb886f3541b87e42e60212809
+guid: 94027a09f2ba88c44ba6e3dee1d615da
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: 1683976075417868599
+    second: Fox_sleep_animation
+  - first:
+      74: 5557090023408774660
+    second: Fox_idle_animation
+  - first:
+      74: -655612975536667989
+    second: Fox_charge_animation
+  - first:
+      74: 3466073353347365978
+    second: Fox_attack_animation
+  - first:
+      74: -7803262388859474175
+    second: Fox_Run
+  - first:
+      74: 8405574006268168675
+    second: Fox_Walk
   externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fox_M
+    second: {fileID: 2100000, guid: 37d8aee553c55ec46940badb507dcf40, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

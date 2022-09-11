@@ -1,14 +1,35 @@
 fileFormatVersion: 2
-guid: f7c2706bb886f3541b87e42e60212809
+guid: 15f2416badcb56b4f8d2ac6ef818562a
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -1233992860688786080
+    second: DragonRig_Walk
+  - first:
+      74: 2853322877535239312
+    second: Dragon_FireActive
+  - first:
+      74: 982573576355062737
+    second: Dragon_FireStart
+  - first:
+      74: -6118678113750541623
+    second: Dragon_Idle
+  - first:
+      74: 1744752774626630749
+    second: Dragon_Sleep
+  - first:
+      74: 7059677278080430574
+    second: Dragon_WindUp
+  - first:
+      74: -5791138695350926992
+    second: DragonRig_Run
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Misc_M
-    second: {fileID: 2100000, guid: 2b1cf0c69a7c345459d5ee52b20ae5fe, type: 2}
+      name: lambert5
+    second: {fileID: 2100000, guid: 7717373c478a46e429fe3f802dc6b957, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -90,7 +111,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 0.1
+    globalScale: 0.001
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
